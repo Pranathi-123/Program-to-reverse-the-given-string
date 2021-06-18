@@ -1,0 +1,4 @@
+#Program to reverse the given string
+st=list(input().split())
+st.reverse()
+print(*st)
